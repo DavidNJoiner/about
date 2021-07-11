@@ -1,3 +1,3 @@
-Name: dvid3r /
-Interest: modding/game dev /
-Contact: dvid3r@gmail.com /
+dvid3r /
+modding/game dev /
+dvid3r@gmail.com
