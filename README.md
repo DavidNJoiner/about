@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YohanPi
 - 👀 I’m interested in design and game modding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
